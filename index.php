@@ -1,4 +1,4 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Jose Daniel Ferrufino Barahona</title>
@@ -12,10 +12,10 @@
 
 
     </body>
-    <fooder>
+    
 
 
-    </fooder>
+
 
 
 </html>
