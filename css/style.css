@@ -1,0 +1,23 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+
+html{
+    padding:0;
+    margin:0;
+}
+
+body{
+    background-color: white;
+}
+
+.contenedor{
+    background: url("https://uvirtual.ufg.edu.sv/pluginfile.php/3628136/mod_assign/introattachment/0/background.png?forcedownload=1") no-repeat;
+    background-size: contain;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    width: 100% !important;
+    height: 100vh;
+}
