@@ -14,12 +14,26 @@ body{
 }
 
 .contenedor{
-    background: url("https://uvirtual.ufg.edu.sv/pluginfile.php/3628136/mod_assign/introattachment/0/background.png?forcedownload=1") no-repeat;
+    background: url("../img/background.png") no-repeat;
     background-size: contain;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
     width: 100% !important;
     height: 100vh;
+}
+
+.parrafo_justificado{
+    text-align: justify;
+}
+.parrafo_justificado{
+    text-align: center;
+}
+
+.mensaje{
+    color: tomato;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
 }
 
 
